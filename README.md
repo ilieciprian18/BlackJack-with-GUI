@@ -32,5 +32,5 @@ _Majoritatea codului contine comentarii explicative_
   ```
   Se apeleaza clasa jocului
  ```
-
+### Prezentarea unui joc
 

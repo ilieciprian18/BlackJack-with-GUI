@@ -33,4 +33,17 @@ _Majoritatea codului contine comentarii explicative_
   Se apeleaza clasa jocului
  ```
 ## Prezentarea unui joc
+### Meniul jocului
+![image](https://user-images.githubusercontent.com/61537857/123121744-16ccf300-d44e-11eb-8153-ed28a4790f0c.png)
+
+#### Se pot citi regulile apasand butonul "Game Rules"
+![image](https://user-images.githubusercontent.com/61537857/123121639-00bf3280-d44e-11eb-96d5-9f5282964110.png)
+
+#### Se plaseaza bet-ul
+**Acesta trebuie sa fie un numar <= balanta din cont**
+![image](https://user-images.githubusercontent.com/61537857/123121313-bdfd5a80-d44d-11eb-8a6f-6fc0b03ec87a.png)
+![image](https://user-images.githubusercontent.com/61537857/123121396-cc4b7680-d44d-11eb-8acb-931df7155a75.png)
+![image](https://user-images.githubusercontent.com/61537857/123121452-d8373880-d44d-11eb-80bf-5ea98fdc655a.png)
+
+
 

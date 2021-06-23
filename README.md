@@ -1,2 +1,2 @@
 # BlackJack-with-GUI
-un joc de blackjack cu gui
+_Majoritatea codului contine comentarii explicative_

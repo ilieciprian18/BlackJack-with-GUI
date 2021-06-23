@@ -4,7 +4,7 @@ Jocul de Blackjack se joaca intre doi jucatori (dealer si jucator), castigatorul
 Mai jos se va regasi o scurta prezentare a claselor precum si cateva poze ale jocului.\
 _Majoritatea codului contine comentarii explicative_
 
-### Clasele Jocului si prezentare a metodelor importante :
+## Clasele Jocului si prezentare a metodelor importante :
  - Card (clasa cartii de joc):
  ```
  Aceasta clasa reprezinta cartea de joc ca un obiect, aceasta avand simbol si numar
@@ -32,5 +32,5 @@ _Majoritatea codului contine comentarii explicative_
   ```
   Se apeleaza clasa jocului
  ```
-### Prezentarea unui joc
+## Prezentarea unui joc
 

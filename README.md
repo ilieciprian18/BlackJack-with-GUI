@@ -33,17 +33,33 @@ _Majoritatea codului contine comentarii explicative_
   Se apeleaza clasa jocului
  ```
 ## Prezentarea unui joc
-### Meniul jocului
+**Meniul jocului**
 ![image](https://user-images.githubusercontent.com/61537857/123121744-16ccf300-d44e-11eb-8153-ed28a4790f0c.png)
 
-#### Se pot citi regulile apasand butonul "Game Rules"
+**Se pot citi regulile apasand butonul "Game Rules"**
 ![image](https://user-images.githubusercontent.com/61537857/123121639-00bf3280-d44e-11eb-96d5-9f5282964110.png)
 
-#### Se plaseaza bet-ul
+**Se plaseaza bet-ul** \
 **Acesta trebuie sa fie un numar <= balanta din cont**
 ![image](https://user-images.githubusercontent.com/61537857/123121313-bdfd5a80-d44d-11eb-8a6f-6fc0b03ec87a.png)
 ![image](https://user-images.githubusercontent.com/61537857/123121396-cc4b7680-d44d-11eb-8acb-931df7155a75.png)
 ![image](https://user-images.githubusercontent.com/61537857/123121452-d8373880-d44d-11eb-80bf-5ea98fdc655a.png)
 
+### Jucarea jocului
 
+**Fiecarui jucator ii sunt impartite cate 2 carti, jucatorul le are pe ambele "pe fata" iar dealerul are un ascunsa si una "pe fata".**\
+**Se incepe tura jucatorului**
+
+![image](https://user-images.githubusercontent.com/61537857/123123064-387aaa00-d44f-11eb-8d63-146c677d89ef.png)
+
+
+**Jucatorul poate apasa Hit pentru a trage o carte si Stand pentru a incepe tura Dealerului**\
+**Jucatorul apasa hit pentru a trage o carte apoi apasa Stand
+![image](https://user-images.githubusercontent.com/61537857/123123089-3e708b00-d44f-11eb-9af8-e970374d56ca.png)
+![image](https://user-images.githubusercontent.com/61537857/123123120-45979900-d44f-11eb-8bba-6c5783d31f64.png)
+
+**Dealerul castiga deoarece noi avem suma cartilor 15 iar acesta are 19, 15 < 19 < 21;**\
+**Se poate apasa "Play Again" pentru a mai juca jocul, cu balanta actualizata**
+![image](https://user-images.githubusercontent.com/61537857/123123325-6c55cf80-d44f-11eb-98a0-b910a228abc7.png)
+![image](https://user-images.githubusercontent.com/61537857/123123354-7081ed00-d44f-11eb-99e5-05f81933f3c2.png)
 

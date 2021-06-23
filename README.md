@@ -5,9 +5,9 @@ Mai jos se va regasi o scurta prezentare a claselor precum si cateva poze ale jo
 _Majoritatea codului contine comentarii explicative_
 
 ### Clasele Jocului :
- - Card
- - CardDeck
- - CardHand
+ - Card (clasa cartii de joc)
+ - CardDeck (clasa pentru pachetul de carti de joc)
+ - CardHand (clasa pentru a mentine mainile jucatorilor)
  - Blackjack ( clasa jocului)
  - GUI ( o clasa folosita doar pentru a testa functionalitatile swing / inactiva in proiect)
  - MainBlackJack (se ruleaza pentru a se juca jocul in consola)
